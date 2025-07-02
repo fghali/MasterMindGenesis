@@ -1,3 +1,5 @@
+Appendix A: Worked Example – Calculating Reality Using the Fadi Tempo Unit (FTU) and the Frequency Meta-Axiom
+________________________________________
 Scenario: A Single Quantum Event in the Matrix of Existence
 Let’s consider the birth of a photon—a packet of light energy—in a controlled quantum system (e.g., a laboratory laser).
 Step 1: Identify the Minimal Change
@@ -35,4 +37,7 @@ Summary Table
 Event	Frequency	Context	FTU	Reality (R)
 Single Photon	4.3×10¹⁴ Hz	Lab (vacuum)	1	1
 1s Laser Output	4.3×10¹⁴ Hz	Lab (vacuum)	10⁹	10⁹
+________________________________________
+Closing Note
+This worked example demonstrates how any phenomenon—quantum or classical—can be mapped, measured, and challenged using the Master Mind Genesis framework. It is the scientist’s job to break this minimum. If they cannot, a new law of existence has just been born.
 ________________________________________
