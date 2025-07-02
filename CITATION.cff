@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite as below."
+title: "Master Mind Genesis"
+version: "v1.0"
+date-released: "2025-07-02"
+authors:
+  - family-names: "Ghali"
+    given-names: "Fadi"
