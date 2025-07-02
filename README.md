@@ -9,7 +9,7 @@ Official timestamped white paper, patent claims, and HFML (Human Frequency Marku
 - HFML Documentation
 - Patent Claims and Filing Info
 - Figures and Appendices
-
+ 
 ## License
 All rights reserved. Academic citation encouraged. Commercial use prohibited without written permission.
 
