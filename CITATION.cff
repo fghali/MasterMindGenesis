@@ -3,9 +3,9 @@ message: "If you use this work, please cite as below."
 title: "Master Mind Genesis"
 version: "v1.0"
 date-released: "2025-07-02"
-ORCID: 0009-0001-8892-2338
-https://doi.org/10.5281/zenodo.15859033
-https://doi.org/10.17605/OSF.IO/QY6PV
+ORCID: "0009-0001-8892-2338"
+Zenodo: "https://doi.org/10.5281/zenodo.15859033"
+OSF: "https://doi.org/10.17605/OSF.IO/QY6PV"
 authors:
   - family-names: "Ghali"
     given-names: "Fadi"
