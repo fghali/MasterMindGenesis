@@ -1,0 +1,8 @@
+Model,Tier,Scope,Monthly (USD),Overage,Royalty/Share,Notes
+OEM,Platform,Redistribution rights,25000,Per activation $2.00,2% gross or min guarantee,Annual audit + badge
+Enterprise,Business,Up to 50M tokens,12000,$6.00 per 1M,Optional 20% savings-share,SLA business hours
+Enterprise,Enterprise,Up to 250M tokens,35000,$4.00 per 1M,Optional 15% savings-share,SLA 24x7 P1/P2
+Enterprise,Unlimited,Unlimited tokens,Custom,Custom,Custom,Priced after pilot
+Certification,Per persona,Badge license,5000,NA,NA,Annual re-certification
+Evaluation,Eval kit,Non-production 60 days,0,NA,NA,Requires pilot intent
+Community,CE,Usage-limited,0,Rate caps,NA,No SLA
